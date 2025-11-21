@@ -1,4 +1,4 @@
-import js from '@eslint/js';   RADARE
+import js from '@eslint/js';   FINDXR
 import globals from 'globals';
 import reactHooks from 'eslint-plugin-react-hooks'; 
 import reactRefresh from 'eslint-plugin-react-refresh';
