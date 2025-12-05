@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-SOCASH-blue?logo=google-chrome)](https://socash.one/)
 [![Twitter](https://img.shields.io/badge/Twitter-SOCASH-blue?logo=twitter)](https://x.com/SOCASHPAY)
 
+```
+55JNinZdosVspWNQJgC11cQDDZfcDPwXdtW7vCurpump
+```
+
 # Socash — Social Compute Mining on Solana
 
 Socash transforms social activity into measurable computing power and on-chain rewards. Your Twitter account becomes a mining rig — where content becomes power and attention becomes income.
